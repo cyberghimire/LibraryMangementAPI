@@ -1,4 +1,5 @@
 Flask API for Library Mangement System. <br><br>
+
 To run the program, install necessary dependencies as:
 ```
 pip install -r requirements.txt
@@ -8,7 +9,8 @@ After installing all the dependencies, run librarymanagement.py file with Python
 ```
 python librarymanagement.py
 ```
-
+<br>
+The database used in this project is SQLite. So, you'll need DB Browser for SQLite installed on your computer.
 <br> <br>
 API usage documentation: <br>
 
