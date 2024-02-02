@@ -10,7 +10,7 @@ After installing all the dependencies, run librarymanagement.py file with Python
 python librarymanagement.py
 ```
 <br>
-The database used in this project is SQLite. So, you'll need DB Browser for SQLite installed on your computer.
+The database used in this project is SQLite. So, you'll need DB Browser for SQLite installed on your computer in order to view the database.
 <br> <br>
 API usage documentation: <br>
 
